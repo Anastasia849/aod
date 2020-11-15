@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/aod.iml" filepath="$PROJECT_DIR$/.idea/aod.iml" />
+      <module fileurl="file://$PROJECT_DIR$/aod_practice10/aod_practice10.iml" filepath="$PROJECT_DIR$/aod_practice10/aod_practice10.iml" />
+      <module fileurl="file://$PROJECT_DIR$/aod_practice11/aod_practice11.iml" filepath="$PROJECT_DIR$/aod_practice11/aod_practice11.iml" />
+      <module fileurl="file://$PROJECT_DIR$/aod_practice12/aod_practice12.iml" filepath="$PROJECT_DIR$/aod_practice12/aod_practice12.iml" />
+      <module fileurl="file://$PROJECT_DIR$/aod_practice13/aod_practice13.iml" filepath="$PROJECT_DIR$/aod_practice13/aod_practice13.iml" />
+      <module fileurl="file://$PROJECT_DIR$/aod_practice9/aod_practice9.iml" filepath="$PROJECT_DIR$/aod_practice9/aod_practice9.iml" />
+    </modules>
+  </component>
+</project>
