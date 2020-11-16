@@ -5,6 +5,5 @@
 11115; Karl; Minina 5
 11116; Marina; Minina 6
 11117; Elza; Minina 7
-11118; Olga; Minina 8
-11119; Tomas; Minina 9
 11120; Timur; Minina 10
+11119; Tomas; Minina 9
